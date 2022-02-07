@@ -5,7 +5,7 @@ module.exports.run = async (bot, message, args) => {
       let sayEmbed = new Discord.MessageEmbed()
         .setTitle("Map Jam Winners")
         .setURL("https://mcmaps.net/map-jam")
-        .setColor("#e23d3d")
+        .setColor("#2f3136")
         .addFields(
         {
             name: "February - 2021",
@@ -14,8 +14,8 @@ module.exports.run = async (bot, message, args) => {
             name: "July - 2021",
             value: ":crown: Nonoréo & Silvathor: Beyond Dimension"
         },{
-            name: "Janurary - 2022",
-            value: ":crown: **-** : **-**"
+            name: "January - 2022",
+            value: ":crown: TheblueMan003 & Benjamin874 : Gravitational Anomaly"
         },
         )
 

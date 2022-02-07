@@ -4,7 +4,7 @@ module.exports.run = async (bot, message, args) => {
       let sayEmbed = new Discord.MessageEmbed()
         .setTitle("MCMaps Discord Bot Info")
     .setURL("https://MCMaps-Bot.aandeel.repl.co/")
-    .setColor("f0a42e")
+    .setColor("2f3136")
     .addFields(
         {
             name: "Bot Creator/Programmer",

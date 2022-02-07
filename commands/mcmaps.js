@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
         .setURL('https://mcmaps.net')
         .setDescription('MCMaps is an unofficial fan site where you can find and distribute Minecraft maps!')
         .setThumbnail("https://irp.cdn-website.com/aa7397ec/dms3rep/multi/12png-1920w.png") //nice
-        .setColor("#e23d3d") // this is HEX code
+        .setColor("#2f3136") // this is HEX code
         .addFields(
             {
                 name: "Twitter:",

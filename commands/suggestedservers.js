@@ -14,6 +14,10 @@ module.exports.run = async (bot, message, args) => {
         {
             name: "Minecraft Map Testing:",
             value: "https://discord.gg/QRE99eS"
+        },
+        {
+            name: "Maze King:",
+            value: "https://discord.gg/JyQE9Vr4FH/"
         }
     )
 message.channel.send({embed: sayEmbed});

@@ -27,24 +27,11 @@ fs.readdir("./commands/", (err, files) => {
 
 });
 
-//Add Role And Welcome New Member
-bot.on('guildMemberAdd', member => {
-  console.log('User' + member.user.tag + 'has joined the server!');
-
-  var role = member.guild.roles.find('name', 'Member');
-
-  client.channels.find("name", "welcome").send('Welcome '+ member.username)
-
-  setTimeout(function(){
-  member.addRole(role);
-}, 10000);
-});
-
 //Playing Message
 bot.on("ready", async () => {
   console.log(`${bot.user.username} is online on ${bot.guilds.cache.size} servers!`);
 
-  bot.user.setActivity("Minecraft", {type: "PLAYING"});
+  bot.user.setActivity("Seventeen", {type: "LISTENING"});
 });
 
 //Command Manager
