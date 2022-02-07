@@ -1,5 +1,5 @@
-## MCMaps-Discord-Bot
+# MCMaps-Discord-Bot
 This bot is an information base for people to use on the Official MCMaps.net Discord Server
 
-# Discord
+## Discord
 https://discord.gg/mcmaps
