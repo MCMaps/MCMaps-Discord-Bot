@@ -1,12 +1,3 @@
 {
-  "files": {
-    "commands/mapjam.js": [
-      {
-        "id": "81ac8a55-c9c8-4936-9fb6-72f29546ccb6",
-        "line": 18,
-        "version": 192,
-        "index": 595
-      }
-    ]
-  }
+  "files": {}
 }
