@@ -5,7 +5,7 @@ module.exports.run = async (bot, message, args) => {
         .setTitle("MCMaps' Discord Server Suggestions")
         .setURL("https://discord.gg/mcmaps")
         .setThumbnail("https://lirp.cdn-website.com/aa7397ec/dms3rep/multi/opt/logored-1920w.png")
-        .setColor("#54469c")
+        .setColor("#2f3136")
         .addFields(
         {
             name: "Minecraft Commands:",

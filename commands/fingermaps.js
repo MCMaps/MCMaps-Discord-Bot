@@ -6,7 +6,7 @@ module.exports.run = async (bot, message, args) => {
         .setTitle("FingerMaps")
         .setURL("https://www.mcmaps.net/verified/fingermaps/")
         .setThumbnail("https://irp.cdn-website.com/aa7397ec/dms3rep/multi/FingerMapsLogoNewCircle.png")
-        .setColor("#d7e1e1")
+        .setColor("#2f3136")
         .addFields(
         {
             name: "Verified Page:",

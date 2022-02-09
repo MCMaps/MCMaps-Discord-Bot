@@ -5,8 +5,8 @@ module.exports.run = async (bot, message, args) => {
       let sayEmbed = new Discord.MessageEmbed()
         .setTitle("MrKisiel")
         .setURL("https://www.mcmaps.net/verified/mrkisiel/")
-        .setThumbnail("https://irp.cdn-website.com/aa7397ec/dms3rep/multi/aXx-KEcF_400x400.jpg")
-        .setColor("#d7e1e1")
+        .setThumbnail("https://lirp.cdn-website.com/aa7397ec/dms3rep/multi/opt/Untitled-640w.png")
+        .setColor("#2f3136")
         .addFields(
         {
             name: "Verified Page:",

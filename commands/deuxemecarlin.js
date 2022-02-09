@@ -6,7 +6,7 @@ module.exports.run = async (bot, message, args) => {
         .setTitle("DeuxiemeCarlin")
         .setURL("https://www.mcmaps.net/verified/deuxiemecarlin/")
         .setThumbnail("https://irp.cdn-website.com/aa7397ec/dms3rep/multi/download.png")
-        .setColor("#d7e1e1")
+        .setColor("#2f3136")
         .addFields(
         {
             name: "Verified Page:",
