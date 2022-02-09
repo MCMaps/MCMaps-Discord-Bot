@@ -15,7 +15,7 @@ module.exports.run = async (bot, message, args) => {
             value: ":crown: Nonoréo & Silvathor: Beyond Dimension"
         },{
             name: "January - 2022",
-            value: ":crown: TheblueMan003 & Benjamin874 : Gravitational Anomaly"
+            value: ":crown: TheblueMan003 & Benjamin874: Gravitational Anomaly"
         },
         )
 
