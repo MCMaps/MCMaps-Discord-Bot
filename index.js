@@ -31,7 +31,7 @@ fs.readdir("./commands/", (err, files) => {
 bot.on("ready", async () => {
   console.log(`${bot.user.username} is online on ${bot.guilds.cache.size} servers!`);
 
-  bot.user.setActivity("Seventeen", {type: "LISTENING"});
+  bot.user.setActivity("House Of Anubis", {type: "WATCHING"});
 });
 
 //Command Manager
